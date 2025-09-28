@@ -26,3 +26,4 @@ contract FHECounter is SepoliaConfig {
         FHE.allow(_count, msg.sender);
     }
 }
+// developed by dannywhale: TTTI
